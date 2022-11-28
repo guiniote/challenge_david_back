@@ -1,4 +1,4 @@
-# Challenge for David
+# Challenge para David
 
 Ejecutar **npm i** o **npm install** tras descargar el repositorio.
 
