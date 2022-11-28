@@ -2,7 +2,7 @@
 
 Ejecutar **npm i** o **npm install** tras descargar el repositorio.
 
-## Front End🖥
+## Frontend🖥
 
 ### Configurar el archivo .ENV antes de iniciar la app
 
